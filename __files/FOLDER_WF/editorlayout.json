@@ -1,0 +1,30 @@
+{
+  "DesignerControls": [
+    {
+      "AttributeAlignment": "LEFT",
+      "AttributeName": "as_fd__name",
+      "ControlType": "TEXT",
+      "DataDictionaryID": 0,
+      "DataDictionaryType": "NONE",
+      "DefaultValue": null,
+      "Displayname": "MappenNr.",
+      "Font": {
+        "FontName": "Microsoft Sans Serif",
+        "FontSize": 8.25,
+        "FontStyle": "DEFAULT"
+      },
+      "IsEditable": true,
+      "IsNullable": true,
+      "Name": "as_fd__name",
+      "Position": {
+        "x": 0,
+        "y": 0
+      },
+      "Sequence": 1,
+      "Size": {
+        "height": 0,
+        "width": 100
+      }
+    }
+  ]
+}

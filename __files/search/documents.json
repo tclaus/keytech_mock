@@ -1,0 +1,21 @@
+{
+  "ElementList": [
+    {
+      "Description": " A Picture Element",
+      "ClassDisplayName": "ABD Files",
+      "Key": "ABD_FILE:1",
+      "Name": "ABD1",
+      "DisplayName": "Document for Pictures",
+      "Status": "At Work",
+      "Version": "1",
+      "CreatedAt": "/Date(1344204000000+0200)/",
+      "CreatedBy": "jgrant",
+      "CreatedByLong": "Julian Grant",
+      "ChangedAt": "/Date(1344204000000+0200)/",
+      "ChangedBy": "JGrant",
+      "ChangedByLong": "Julian Grant",
+      "ThumbnailHint": "itemThumbnailHint",
+      "HasVersions": false
+    }
+  ]
+}

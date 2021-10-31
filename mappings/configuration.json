@@ -1,0 +1,146 @@
+{
+  "mappings": [
+    {
+      "request": {
+        "method": "GET",
+        "url": "/serverinfo"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "serverinfo.json",
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/user/jgrant"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "user/jgrant.json",
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/classes"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "classes.json",
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/classes/FOLDER_WF/editorlayout"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "FOLDER_WF/editorlayout.json",
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/classes/FOLDER_WF/listerlayout"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "FOLDER_WF/listerlayout.json",
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/classes/ABD_FILE/editorlayout"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "ABD_FILE/editorlayout.json",
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/classes/ABD_FILE/listerlayout"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "ABD_FILE/listerlayout.json",
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/user/jgrant/favorites"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "user/jgrant/favorites.json",
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    {
+      "request": {
+        "urlPath": "/Search",
+        "queryParameters": {
+          "classtypes": {
+            "equalTo": "DEFAULT_FD",
+            "caseInsensitive": true
+          }
+        },
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "search/folders.json",
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    {
+      "request": {
+        "method": "POST",
+        "url": "/elements"
+      },
+      "response": {
+        "status": 201
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "urlPath": "/elements/FOLDER_WF:1/structure"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "empty_element_list.json"
+      }
+    }
+  ]
+}

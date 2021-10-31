@@ -1,0 +1,14 @@
+{
+  "MembersList": [
+    {
+      "IsActive": true,
+      "IsAdmin": false,
+      "IsSuperuser": false,
+      "KeyName": "jgrant",
+      "LanguageID": "de",
+      "Language": "german",
+      "LongName": "Julia Grant",
+      "userMail": ""
+    }
+  ]
+}

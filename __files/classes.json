@@ -1,0 +1,62 @@
+{
+  "ClassConfigurationList": [
+    {
+      "AllowElementCopy": true,
+      "AttributesList": [
+        {
+          "AttributeLength": 30,
+          "AttributeType": "TEXT",
+          "CanUsedInLayouts": false,
+          "CanUsedInTitleBlock": false,
+          "DataLanguageType": "FixedText",
+          "DefaultValue": "PDB",
+          "Description": "System: ACL",
+          "Displayname": "Zugriff",
+          "NativeName": "as_mi__acl"
+        }
+      ],
+      "AvailableSubAreas": [],
+      "ClassKey": "FOLDER_WF",
+      "Description": "Mappen",
+      "Displayname": "Alle Mappen",
+      "HasChangeManagement": false,
+      "HasNumberGenerator": true,
+      "HasVersionControl": false,
+      "IsActive": true,
+      "StatusManagement": {
+        "DefaultStatus": "DEFAULT",
+        "DefaultStatusSchemaName": "DEFAULT",
+        "DefaultstatusSchemaID": 1
+      }
+    },
+    {
+      "AllowElementCopy": true,
+      "AttributesList": [
+        {
+          "AttributeLength": 30,
+          "AttributeType": "TEXT",
+          "CanUsedInLayouts": false,
+          "CanUsedInTitleBlock": false,
+          "DataLanguageType": "FixedText",
+          "DefaultValue": "PDB",
+          "Description": "System: ACL",
+          "Displayname": "Zugriff",
+          "NativeName": "as_mi__acl"
+        }
+      ],
+      "AvailableSubAreas": [],
+      "ClassKey": "ABD_FILE",
+      "Description": "Document ABD File",
+      "Displayname": "Bilder",
+      "HasChangeManagement": false,
+      "HasNumberGenerator": true,
+      "HasVersionControl": false,
+      "IsActive": true,
+      "StatusManagement": {
+        "DefaultStatus": "DEFAULT",
+        "DefaultStatusSchemaName": "DEFAULT",
+        "DefaultstatusSchemaID": 1
+      }
+    }
+  ]
+}

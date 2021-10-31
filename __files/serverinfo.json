@@ -1,0 +1,24 @@
+{
+  "ServerInfoResult": [
+    {
+      "Key": "keytech database version",
+      "Value": " 14.0.0"
+    },
+    {
+      "Key": "Server Description",
+      "Value": "Keytech Web API"
+    },
+    {
+      "Key": "API version",
+      "Value": "14.0.0"
+    },
+    {
+      "Key": "ServerID",
+      "Value": "NjM1NDQ2NjY2MzczMzAxODg4"
+    },
+    {
+      "Key": "Application free session pool",
+      "Value": 3
+    }
+  ]
+}
